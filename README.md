@@ -3,7 +3,7 @@
 ### <div align="center">you can call me amar, i'am full stack dev but focusing on Front End</div>
 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top">
 
 ### <div align="center">What i learn</div>
 <div align="center">  
