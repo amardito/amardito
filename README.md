@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <div align="center">Greetings u can call me amar, i'am full stack dev but focusing on Front End</div>
+### <div align="center">you can call me amar, i'am full stack dev but focusing on Front End</div>
 
 
 <table><tr><td valign="top" width="33%">
