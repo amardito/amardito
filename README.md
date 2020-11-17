@@ -2,12 +2,13 @@
 
 ### <div align="center">you can call me amar, i'am full stack dev but focusing on Front End</div>
 
-
-
-### <div align="center">What i learn</div>
+# <div align="center">What i learn</div>
 
 <br>
-<div>
+
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="80" />
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="80" />
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="80" />  
@@ -25,8 +26,8 @@
   <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" height="80" />
   <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="Npm" height="80" />
   <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/git/git-original-wordmark.svg" alt="Git" height="80" />
-</div>
-    
+</div></td></tr></table>
+
 <br/>
   
 ## Github Stats  
