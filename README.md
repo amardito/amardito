@@ -6,6 +6,8 @@
 
 <br>
 
+<div align="center">  
+
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -27,6 +29,8 @@
   <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="Npm" height="80" />
   <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/git/git-original-wordmark.svg" alt="Git" height="80" />
 </div></td></tr></table>
+
+</div>
 
 <br/>
   
