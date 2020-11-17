@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">Hi there 👋</div>
 
 ### <div align="center">you can call me amar, i'am full stack dev but focusing on Front End</div>
 
