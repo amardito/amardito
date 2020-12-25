@@ -15,13 +15,15 @@
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="80" />
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="80" />  
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="80" />
-
+  <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="React" height="80" />
+  
   </br>
 
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="80" />
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="80" />  
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="80" />  
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="80" />
+  <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="Express.js" height="80" />
 
   </br>
 
