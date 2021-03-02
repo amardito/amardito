@@ -23,7 +23,7 @@
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="80" />  
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="80" />  
   <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="80" />
-  <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="Express.js" height="80" />
+  <img style="margin: 20px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" />
 
   </br>
 
