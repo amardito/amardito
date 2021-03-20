@@ -1,8 +1,8 @@
-# <div align="center">Hello there 👋</div>
+<h1 align="center">Hello there 👋</h1>
 
-## <div align="center">you can call me amar, i'am full stack developer
+<h2 align="center">you can call me amar, i'am full stack developer</h2>
 
-### <div align="center">What i learn</div>
+<h3 align="center">What i learn</h3>
 
 <br>
 
@@ -36,8 +36,8 @@
 
 <br/>
   
-## Github Stats  
+<h3>Github Stats</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amardito&show_icons=true&count_private=true" align="center" /></div>  
 
-## CodeWars Stats  
+<h3>CodeWars Stats</h3>
 <div align="center"><img src="https://www.codewars.com/users/amardito/badges/large" align="center" /></div>  
