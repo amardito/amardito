@@ -35,5 +35,6 @@
 <br/>
   
 <h3 align="center">Stats</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amardito&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amardito&show_icons=true&count_private=true" align="center" /></div> 
+<br/>
 <div align="center"><img src="https://www.codewars.com/users/amardito/badges/large" align="center" /></div>  
