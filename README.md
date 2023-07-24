@@ -1,4 +1,4 @@
-<h2 align="center">Hello there 👋 </br> you can call me amar, i'am Backend developer</h2>
+<h2 align="center">Hello there 👋 </br> you can call me amar, I am Backend developer</h2>
 
 <h3 align="center">What i learn</h3>
 
