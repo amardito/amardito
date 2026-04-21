@@ -1,33 +1,78 @@
-<h2 align="center">Hello there 👋 </br> you can call me amar, I am Backend developer</h2>
+<div align="center">
 
-<h3 align="center">What i learn</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Amar+%F0%9F%91%8B;Backend+Developer;Go+%7C+Node.js+%7C+JavaScript;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
+<br/>
 
-<div align="center">  
-
-<table><tr><td valign="top" width="33%">
-
-<div align="center"> 
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="80" />
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="80" />  
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="80" />  
-  <img style="margin: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="80"/>
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" />
-  <img style="margin: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" />
-
-  </br>
-
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" height="80" />
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Npm" height="80" />
-  <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" height="80" />
-</div></td></tr></table>
+[![Profile Views](https://komarev.com/ghpvc/?username=amardito&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/amardito)
 
 </div>
 
-<br/>
-  
-<h3 align="center">Stats</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amardito&show_icons=true&count_private=true" align="center" /></div> 
-<br/>
-<div align="center"><img src="https://www.codewars.com/users/amardito/badges/large" align="center" /></div>  
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I'm a **Backend Developer** passionate about building robust and scalable systems
+- 🌱 Currently deepening my knowledge in **Go** and distributed systems
+- ⚡ I enjoy working with **Node.js**, **MongoDB**, **PostgreSQL**, and **MySQL**
+- 💬 Ask me about backend architecture, REST APIs, and databases
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages & Runtimes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Tools & Package Managers
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amardito&show_icons=true&count_private=true&theme=github_dark&border_radius=10&hide_border=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amardito&layout=compact&theme=github_dark&border_radius=10&hide_border=true" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=amardito&theme=github-dark-blue&border_radius=10&hide_border=true" />
+
+</div>
+
+---
+
+### 🏅 Codewars
+
+<div align="center">
+
+[![Codewars](https://www.codewars.com/users/amardito/badges/large)](https://www.codewars.com/users/amardito)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+</div>
+
