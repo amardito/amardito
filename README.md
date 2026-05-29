@@ -44,13 +44,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amardito&show_icons=true&count_private=true&theme=github_dark&border_radius=10&hide_border=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amardito&layout=compact&theme=github_dark&border_radius=10&hide_border=true" height="170" />
-
-</div>
 
 <div align="center">
 
